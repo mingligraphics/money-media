@@ -1,11 +1,3 @@
-## Which states have become richer?
-
-Change of per capital gdp of each state from 2011 to 2016
-
-```
-1. Map of per capital gdp increase or decrease (increase blue, decrease red)
-2. 
-```
 
 ## Population growth rate in Asians
 
@@ -20,7 +12,7 @@ Change of per capital gdp of each state from 2011 to 2016
 1. Map of changing voting population (Blue increase, Red decrease)
 2. Map of Blue/Red states
 ```
-## Gender gap in health care coverage
+## Gender gap in elderly health care coverage
 
 Different health care coverage rates among white and non-white population.
 
