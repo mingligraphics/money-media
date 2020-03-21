@@ -1,8 +1,8 @@
-# Which states have become richer?
+## Which states have become richer?
 
 Change of per capital gdp of each state from 2011 to 2016
 
-# Change of the ratios voting population in blue states vs. red states
+## Change of the ratios voting population in blue states vs. red states
 
 You'll want to use the [sawhorse command-line interface](https://github.com/littlecolumns/sawhorse-cli) to set up a new sawhorse project.
 
@@ -17,3 +17,6 @@ That will install the `sawhorse` command, which you can then use to create a new
 ```
 sawhorse create my-project
 ```
+## Race gap in health care coverage
+
+Different health care coverage rates among white and non-white population.
