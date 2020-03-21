@@ -7,11 +7,11 @@ Change of per capital gdp of each state from 2011 to 2016
 2. 
 ```
 
-## Population growth by race
+## Population growth rate in Asians
 
 ```
-1. Which race has the fastest population
-2. Which state has the fastest population growth of that race
+1. Which country of origin of Asian Americans has the fastest growing population? dot chart (x: population ratio, y: growth rate)
+2. The combination of Asian population (tree map)
 ```
 
 ## Change of the ratios voting population in blue states vs. red states
