@@ -1,7 +1,22 @@
 <div class="story-body">
-    <h2>Here is a chart</h2>
-    <p>I have the <code>script</code> tag that points to <code>chart-01.js</code> inside of this partial</p>
+    <h2>Part 2: Data visualization</h2>
+    <p><b>1. A Map</b></p>
+</div>
+  <p style="text-align: center"><img src="images/uninsured02.jpg"></p>
+    <div class="story-body">
+    <p><strong>How/Why Did I Make The Map</strong></p>
+    <p>I used <strong>Pandas</strong> to clean and merge the dataframes. Then I used <strong>Qgis</strong> to create a US state map based on the nature earth spatial data. Finally, I put it into <strong>Adobe illustrator</strong> to make it prettier. </p>
+<p>I chose to map because the data showed a very obvious geographical pattern, with the southern states on average have higher uninsured rates. Readers can also identify the uninsured level of each state from the map.</p>
+</div>
+  
+
+  <div class="story-body">
+<p><b>2. An Interactive D3 Chart</b></p>
     <div id="chart-1"></div>
+ <p><strong>How/Why Did I Make The Chart</strong></p>
+<p>I used <b>D3.js</b> to make the chart. To make the chart interactive, I used <b>d3.tip</b>. When you hover over the circles, you can see the exact number the dot represents. 
+<p>I chose the range plot because it is a very good way to show the difference in uninsured rates between men and women. It’s also easy to see how the gaps are different among states.</p>
+
 </div>
 
 <script src="scripts/chart-01.js"></script>
