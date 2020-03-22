@@ -1,8 +1,8 @@
 
 ## A money media project
 
-### Project Link:
-### Data Sources: census data 2007 - 2011 & 2012 - 2016 estimates
+#### Project Link:
+#### Data Sources: census data 2007 - 2011 & 2012 - 2016 estimates
 
 ```
 1. American Voting Age Population Decreases in Every Blue State
