@@ -69,7 +69,7 @@
 <p>* A bar chart of top 10 states with worst decrease of the share of voting age population.</p>
 <p>* A small multiple charts with two maps. One is a US map of states colored with blue(Democratic)/red(Republican).  Another is a US map of states also colored with blue (decrease in voters’ ratio) and red (increase in voters’ ratio). You will easily find that all Democratic states have seen the percentage decreased. </p>
 <p><i>- A list of what additional information you would need in order to write each story. For example: Are there other datasets you should look at? Are there certain types of sources you would like to talk to? </i></p>
-<p>* I’ve done the data analysis and found that the percentage of voting age population only decreased in five states. </p><p> I need another dataset of which US states are Democratic states / Republican states / swing states in history. Because the original data is from a 2012-2016 survey, so the second dataset should also be from the same period. For example, <a href="https://news.gallup.com/poll/188969/red-states-outnumber-blue-first-time-gallup-tracking.aspx">a gallop survey from 2016</a>.</p>
+<p>* I’ve done the data analysis and found that the percentage of voting age population only decreased in five states. </p><p> I need another dataset of which US states are Democratic states / Republican states / swing states in history. Because the original data is from a 2012-2016 survey, so the second dataset should also be from the same period. For example, <a href="https://news.gallup.com/poll/188969/red-states-outnumber-blue-first-time-gallup-tracking.aspx">a 2016 Gallup survey</a>.</p>
 <p>* To make the story more comprehensive, we could interview political science expert about how the demographic change, if continues, could impact the upcoming election. </p>
 
 <p><b>2. Asian population is the fastest growing racial group in US</b></p>
@@ -112,6 +112,10 @@ Data has showed that Asian population has become the fastest growing racial grou
   <div class="story-body">
 <p><b>2. An Interactive D3 Chart</b></p>
     <div id="chart-1"></div>
+    <div class="story-body">
+    <p class="chart-source">Source: US Census Bureau</p>
+    <p class="chart-source">By Ming Li</p>
+</div>
  <p><strong>How/Why Did I Make The Chart</strong></p>
 <p>I used <b>D3.js</b> to make the chart. To make the chart interactive, I used <b>d3.tip</b>. When you hover over the circles, you can see the exact number the dot represents. 
 </p><p>I chose the range plot because it is a very good way to show the difference in uninsured rates between men and women. It’s also easy to see how the gaps are different among states.</p>
