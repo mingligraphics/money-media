@@ -1,28 +1,28 @@
 id,groupid,size
 0,Customer Service Agent,10
 1,Account Manager,9
-2,Long-Term Disability Director,8
+1,Long-Term Disability Director,8
 3,Data Scientist,3
-4,Full-Stack Engineer,2
-5,Life Underwriter,2
-6,Lead Writer,2
-7,Senior Product Owner,2
-8,Senior ETL Developer,2
-9,Claims Examiner,2
-10,Group Benefits Account Executive,7
-11,Business Analytics Advisor,1
-12,Internal Auditor,1
-13,Medical Director,1
-14,Counsel,1
-15,Product Development Consultant,1
-17,Recovery Specialist,1
-18,Senior Accountant,1
-20,Insurance Licensing Specialist,1
-21,Communications Strategist,1
-22,Senior Associate Actuary,1
-23,Service Design Strategist,1
-24,Development Manager,1
-28,RFP Writer,1
-29,Sales Representative,1
-30,Operations Processor ,1
-31,"Vice President, Actuary",1
+2,Full-Stack Engineer,2
+0,Life Underwriter,2
+1,Lead Writer,2
+2,Senior Product Owner,2
+2,Senior ETL Developer,2
+0,Claims Examiner,2
+1,Benefits Account Executive,7
+0,Business Analytics Advisor,1
+0,Internal Auditor,1
+1,Medical Director,1
+0,Counsel,1
+0,Product Development Consultant,1
+0,Recovery Specialist,1
+2,Senior Accountant,1
+0,Insurance Licensing Specialist,1
+0,Communications Strategist,1
+2,Senior Associate Actuary,1
+0,Service Design Strategist,1
+1,Development Manager,1
+0,RFP Writer,1
+0,Sales Representative,1
+0,Operations Processor,1
+1,Actuary Vice President,1
