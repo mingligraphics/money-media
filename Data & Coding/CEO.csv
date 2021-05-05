@@ -1,1 +1,19 @@
-Company,CEO-pay,CEO,Employee,Pay-ratioAflac,22613727,Daniel P. Amos ,63740,355AIG,18810373,Brian Duperreault ,70926,265Assurant,11855966,Alan B. Colberg ,45128,263MetLife,15456570,Michel A. Khalaf ,75511,205National Western,11169082,Ross R. Moody,54908,203Unum,13258738,Richard McKenney ,68394,194Principal Financial,15740608,Daniel J. Houston ,81523,193Lincoln National,14300822,Dennis R. Glass ,78076,183Ameriprise Financial,20869520,James Cracchiolo,125720,166Globe Life,9165410,Gary L. Coleman and Larry M. Hutchison ,65208,141Prudential Financial,15002887,Charles F. Lowrey ,108874,138Equitable,14874898,Mark Pearson,113673,131CNO Financial,8260886,Gary C. Bhojwani ,67291,123American Financial Group,9585418,Carl H. Lindner III and Carl H. Lindner III,78569,122Voya Financial,13597008,"Rodney O. Martin, Jr. ",117545,116American Equity,9609258,Anant Bhalla ,83924,114Primerica,5279867,Glenn J. Williams ,51622,102Brighthouse Financial,8133344,Eric Steigerwalt ,184185,44
+Company,CEO-pay,CEO,Employee,Pay-ratio
+Aflac,22613727,Daniel Amos,63740,355
+AIG,18810373,Brian Duperreault,70926,265
+Assurant,11855966,Alan Colberg,45128,263
+MetLife,15456570,Michel Khalaf,75511,205
+National Western,11169082,Ross Moody,54908,203
+Unum,13258738,Richard McKenney,68394,194
+Principal Financial,15740608,Daniel Houston,81523,193
+Lincoln National,14300822,Dennis Glass,78076,183
+Ameriprise Financial,20869520,James Cracchiolo,125720,166
+Globe Life,9165410,"Gary Coleman, Larry Hutchison",65208,141
+Prudential Financial,15002887,Charles Lowrey,108874,138
+Equitable,14874898,Mark Pearson,113673,131
+CNO Financial,8260886,Gary Bhojwani,67291,123
+American Financial Group,9585418,"S. Craig Lindner, Carl Lindner III",78569,122
+Voya Financial,13597008,Rodney Martin Jr.,117545,116
+American Equity,9609258,Anant Bhalla,83924,114
+Primerica,5279867,Glenn Williams,51622,102
+Brighthouse Financial,8133344,Eric Steigerwalt,184185,44
